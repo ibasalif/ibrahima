@@ -1,0 +1,14 @@
+.logo img{
+    width: 60px;
+    height: 50px;
+    border-radius: 70px;
+}
+
+.Item-Carous img{
+    object-fit: cover;
+    height: 550px;
+}
+
+.carousel-caption .btn{
+    margin-right: 800px;
+}
